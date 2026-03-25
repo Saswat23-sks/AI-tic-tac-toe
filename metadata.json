@@ -1,0 +1,5 @@
+{
+  "name": "Tic-Tac-Toe AI Master",
+  "description": "A polished Tic-Tac-Toe game featuring an unbeatable AI powered by the Minimax algorithm.",
+  "requestFramePermissions": []
+}
